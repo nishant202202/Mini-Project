@@ -14,7 +14,7 @@ export default function Welcome() {
     <Container>
       <img src={Robot} alt="" />
       <h1>
-        Hey <span>{userName}</span> !
+        Hey <span>{userName}</span> !!
       </h1>
       <h3>Select a chat to Start messaging.</h3>
     </Container>

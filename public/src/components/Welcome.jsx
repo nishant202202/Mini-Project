@@ -32,6 +32,7 @@ background: rgba(255,255,255,0.1);
   display: flex;
   justify-content: center;
   align-items: center;
+  //hello
   color: white;
   flex-direction: column;
   img {
